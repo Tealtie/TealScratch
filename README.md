@@ -1,4 +1,10 @@
-I'll Probably Scrap This project lol
-Find more info on my Website
-https://tealtie.github.io/index.html
-I love Github Pages
+# TealScratch
+### WARNING: This Project Will Probably Be Scrapped
+
+This is a goofy chatbot I made on Scratch.
+
+It's not very good, but it's a start.
+
+His name is John.
+
+##### But like I said before, I'm not giving up.
